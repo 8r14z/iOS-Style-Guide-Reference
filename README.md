@@ -7,6 +7,7 @@
 * [**Airbnb** Swift Style Guide](https://github.com/airbnb/swift)
 * [**Github** Swift Style Guide](https://github.com/github/swift-style-guide)
 * [**Linkedin** Swift Style Guide](https://github.com/linkedin/swift-style-guide)
+* [**SwiftLint** Rules](https://github.com/realm/SwiftLint/blob/master/Rules.md)
 
 
 ## Ojective-C
