@@ -1,6 +1,6 @@
 # iOS Style Guide Reference
 
-## Swift: 
+## Swift
 * [Offical Swift API Guidlines](https://swift.org/documentation/api-design-guidelines/)
 * [**RayWenderlich** Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
 * [**Google** Swift Style Guide](https://google.github.io/swift/)
@@ -19,7 +19,7 @@
 * [**Apple** Objective-C Coding Conventions](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Conventions/Conventions.html)
 
 
-## Tools:
+## Tools
 * [SwiftLint](https://github.com/realm/SwiftLint)
 * [Objclean](http://objclean.com/index.php)
 * [OCLint](http://oclint.org/)
